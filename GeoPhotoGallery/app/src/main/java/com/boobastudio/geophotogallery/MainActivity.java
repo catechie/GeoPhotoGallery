@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
     private GoogleApiClient mGoogleApiClient;
     private volatile Location mLocation;
     private LocationRequest mLocationRequest;
-    private volatile boolean mRequestingLocationUpdates = false;
+    private volatile boolean mRequestingLocationUpdates = true;
     private static final String LOCATION_KEY = "LOCATION_KEY";
     private static final String LAST_UPDATED_TIME_STRING_KEY = "LAST_UPDATED_TIME_STRING_KEY";
     private static final String REQUESTING_LOCATION_UPDATES_KEY = "LOCATION_UPDATE_KEY";
