@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoPhotoGallery</string>
+
+    <string name="title_activity_item_view">ItemViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_item__view_">Item_View_Activity</string>
+</resources>
